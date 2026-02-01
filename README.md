@@ -5,6 +5,8 @@ myles-vegas-fx-tools
 
 This repository includes a comprehensive regression prevention system to ensure changes don't break existing functionality. **Silent breakage is unacceptable.**
 
+**👉 New here? Start with the [Quick Start Guide](.github/QUICK_START.md)**
+
 ### For Developers and Contributors
 
 Before making ANY changes to scripts, review these documents:
